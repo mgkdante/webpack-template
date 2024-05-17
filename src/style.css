@@ -1,0 +1,10 @@
+@font-face {
+    src: url("Trispace.ttf");
+    font-family: "Trispace";
+}
+
+.hello {
+    color: red;
+    background: url("./user-logo.png");
+    font-family: Trispace, 'segoe ui', sans-serif;
+}
